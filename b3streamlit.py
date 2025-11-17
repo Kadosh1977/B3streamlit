@@ -10,7 +10,7 @@ Original file is located at
 import streamlit as st
 
 import streamlit as st
-#import yfinance as yf
+import yfinance as yf
 
 from pandas._libs.tslibs import period
 st.set_page_config(page_title= "PAINEL B3", layout='wide')
